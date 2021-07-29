@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="edtAddNotes">Add Notes</string>
+    <string name="btnAddNotesItem">Add Item</string>
+</resources>
